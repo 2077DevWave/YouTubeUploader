@@ -1,5 +1,5 @@
 # YouTubeUploader
-Upload youtube video/short with google api and we fixed so much login and authentication problems.
+Upload youtube video/short with google api and we fixed so much login and authentication problems. (also its capable with google colab)
 
 ## Requirement
 1. follow this youtube video to get client_secret.json: https://www.youtube.com/watch?v=eq-mjehACe4
